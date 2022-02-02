@@ -60,5 +60,15 @@
     padding-bottom: 30px;
 }
 .description1{
-    
+    border: solid maroon;
+    margin: 30px;
+    text-align: center;
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+}
+
+#desrip1{
+    height: 400px;
+    width: 400px;
 }
