@@ -72,3 +72,15 @@
     height: 400px;
     width: 400px;
 }
+.menu h4{
+    text-align: center;
+}
+.menu span{
+    color: orange;
+}
+.foods{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    text-align: center;
+}
