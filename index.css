@@ -1,0 +1,54 @@
+.container{
+    align-items: center;
+    background: linear-gradient(100deg, white 60%, orange 40%);
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo span{
+    color: orange;
+}
+.logo p{
+    font-size: 35px;
+    font-family: "Lobster";
+
+}
+.header{
+    position: absolute;
+    top:20px;
+    right: 30px;
+
+}
+.header ul{
+    display: flex;
+    list-style-type: none;
+    float: right;
+    margin-left:80% ;   
+
+}
+.header li{
+    margin-right:50px;
+}
+.text{
+    display: flex;
+   
+}
+.intro{
+   padding-left: 100px;
+   padding-top: 100px;
+    width: 50%;
+
+}
+.image1 img{
+    width: 50%;
+    float: right;
+    padding-right: 100px;
+    
+}
+
+.intro button{
+    background: orange;
+    font-weight: bold;
+
+}
