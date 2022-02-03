@@ -85,14 +85,31 @@
     padding-bottom: 50px;
     padding-top: 50px;
     text-align: center;
+    justify-content: center;
 }
 .burger{
     margin: 20px;
     text-align: center;
     max-width: 150px;
     border-radius: 10px;
-    justify-content: center;
+    border: solid black;
 }
 .price img{
     background-color:#E1EBE6 ;
+}
+.special{
+    background-color: aliceblue;
+    display: flex;
+    text-align: left;
+    
+}
+.special img{
+    display: inline;
+    margin: 0px;
+
+}
+.info{
+    background-color: orange;
+    display: flex;
+    flex-direction: row;
 }
