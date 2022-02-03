@@ -99,17 +99,34 @@
 }
 .special{
     background-color: aliceblue;
-    display: flex;
+    display: inline-flex;
     text-align: left;
+    flex-direction: row;
+    height: 700px;
+    width: 1280px;
     
 }
-.special img{
-    display: inline;
-    margin: 0px;
+.doubledecker{
+    margin: 3px;
 
 }
+#image{
+float: right;
+}
+
+
+
+
 .info{
     background-color: orange;
     display: flex;
     flex-direction: row;
+}
+.mobile{
+    margin: 150px;
+    float: right;
+}
+.mobile p{
+    font-size: large;
+    font-weight: bold;
 }
