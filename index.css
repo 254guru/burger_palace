@@ -84,13 +84,12 @@
     background-color: white;
     padding-bottom: 50px;
     padding-top: 50px;
-    align-content: center;
+    text-align: center;
 }
 .burger{
-    border: solid orange;
     margin: 20px;
     text-align: center;
-    width: 150px;
-    height: 150px;
+    max-width: 150px;
     border-radius: 10px;
+    justify-content: center;
 }
