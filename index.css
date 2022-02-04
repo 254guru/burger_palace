@@ -120,6 +120,7 @@ float: right;
 }
 .mobile{
     margin: 150px;
+    padding: 15px;
     float: right;
 }
 .mobile p{
@@ -130,6 +131,7 @@ float: right;
     background-color: aliceblue;
     display: flex;
     flex-direction: row;
+    align-items: center;
 }
 .header2{
     position: absolute;
@@ -144,5 +146,7 @@ float: right;
     float: right;
     display: flex;
     flex-direction: row;
-    justify-content: right;
+    right: 30px;
+    top: 20px;
+    margin-left: 40%;
 }
