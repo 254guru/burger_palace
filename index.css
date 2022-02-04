@@ -60,7 +60,7 @@
     padding-bottom: 30px;
 }
 .description1{
-    border: solid maroon;
+    border: solid orange;
     margin: 30px;
     text-align: center;
     width: 350px;
@@ -92,7 +92,7 @@
     text-align: center;
     max-width: 150px;
     border-radius: 10px;
-    border: solid black;
+    border: aliceblue;
 }
 .price img{
     background-color:#E1EBE6 ;
@@ -103,7 +103,7 @@
     text-align: left;
     flex-direction: row;
     height: 700px;
-    width: 1280px;
+    width: 1320px;
     
 }
 .doubledecker{
@@ -155,4 +155,5 @@ float: right;
     padding: 100px;
     display: flex;
     flex-direction: row;
+    justify-content: baseline;
 }
