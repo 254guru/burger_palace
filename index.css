@@ -150,3 +150,9 @@ float: right;
     top: 20px;
     margin-left: 40%;
 }
+.credits{
+    margin: 200px;
+    padding: 100px;
+    display: flex;
+    flex-direction: row;
+}
